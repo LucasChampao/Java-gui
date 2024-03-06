@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d742622-7e78-47f7-96ed-1e702d055387" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Aprendendo/src/main/java/carro/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Avaliacao-LUCAS-RODRIGUES/src/main/java/bancos/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Avaliacao-LUCAS-RODRIGUES/src/main/java/bancos/Sicredi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Avaliacao-LUCAS-RODRIGUES/src/main/java/bandeiras/American.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Avaliacao-LUCAS-RODRIGUES/src/main/java/bandeiras/Cartao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Avaliacao-LUCAS-RODRIGUES/src/main/java/bandeiras/Hipercard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Avaliacao-LUCAS-RODRIGUES/src/main/java/pagamentos/Programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/src/main/java/produto/Eletronico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/src/main/java/produto/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/src/main/java/produto/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/src/main/java/produto/Roupa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZOOLOGICO-LUCAS-RODRIGUES/src/main/java/animais/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZOOLOGICO-LUCAS-RODRIGUES/src/main/java/animais/Programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZOOLOGICO-LUCAS-RODRIGUES/src/main/java/funcionarios/Funcionarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZOOLOGICO-LUCAS-RODRIGUES/src/main/java/funcionarios/Programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZOOLOGICO-LUCAS-RODRIGUES/src/main/java/principal/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../avaliacao-Lucas-Rodrigues-Chanpao/src/main/java/faculdade/Assistente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../avaliacao-Lucas-Rodrigues-Chanpao/src/main/java/faculdade/Programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecomerce-atividade1/.idea/ecomerce-atividade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-7-atividade-1-LUCAS-RODRIGUES/src/main/java/faculdade/Docentes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-7-atividade-1-LUCAS-RODRIGUES/src/main/java/faculdade/Programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-7-atividade-2-LUCAS-RODRIGUES/src/main/java/faculdade/Programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-7-atividade-3-LUCAS-RODRIGUES-CHANPAO/src/main/java/faculdade/Assistentes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-7-atividade-3-LUCAS-RODRIGUES-CHANPAO/src/main/java/faculdade/Programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-7-atividade-4-LUCAS-RODRIGUES-CHANPAO/src/main/java/faculdade/Coordernadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-7-atividade-4-LUCAS-RODRIGUES-CHANPAO/src/main/java/faculdade/Programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/src/main/java/interfaces/CaixaSom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/src/main/java/interfaces/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/src/main/java/interfaces/Notebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/src/main/java/interfaces/Programainterfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/src/main/java/interfaces/Teclado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/src/main/java/interfaces/Usb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/src/main/java/mundoanimal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/src/main/java/mundoanimal/Programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/src/main/java/mundoanimal/aves/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/src/main/java/mundoanimal/aves/Papagaio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/src/main/java/mundoanimal/aves/Tucano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/src/main/java/mundoanimal/mamifero/Carnivoro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/src/main/java/mundoanimal/mamifero/Elefante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/src/main/java/mundoanimal/mamifero/Girafa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/src/main/java/mundoanimal/mamifero/Herbivoro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/src/main/java/mundoanimal/mamifero/Hiena.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/src/main/java/mundoanimal/mamifero/Leao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula10-Lucas-Rodrigues/src/main/java/mundoanimal/mamifero/Mamifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/ecommerce/Loja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/ecommerce/LojaFisica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/ecommerce/LojaOnline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/ecommerce/Produtos/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/ecommerce/Produtos/ProdutoDigital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/ecommerce/Produtos/ProdutoFisico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/ecommerce/ProgramaECommerce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/faculdade/Diretoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/faculdade/Discente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/faculdade/Docente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/faculdade/Faculdade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/faculdade/ProgramaFaculdade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/mercado/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/mercado/Mercado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/mercado/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/mercado/Programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/rpg/Dragao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/rpg/Guerreiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/rpg/Mago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/rpg/ProgramaRPG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-aula11-Equipealfa/src/main/java/rpg/RPG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-b-heranca-Lucas-Rodrigues/src/main/java/faculdade/Assistente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-b-heranca-Lucas-Rodrigues/src/main/java/faculdade/Coordenador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-b-heranca-Lucas-Rodrigues/src/main/java/faculdade/Docente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-b-heranca-Lucas-Rodrigues/src/main/java/faculdade/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-b-heranca-Lucas-Rodrigues/src/main/java/faculdade/Tecnico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-b-heranca-Lucas-Rodrigues/src/main/java/selva/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-b-heranca-Lucas-Rodrigues/src/main/java/selva/Elefante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-b-heranca-Lucas-Rodrigues/src/main/java/selva/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo-b-heranca-Lucas-Rodrigues/src/main/java/selva/ProgramaSelva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/poo-2023/src/main/java/org/unialfa/praticando/Wrappers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POO/poo-2023/src/main/java/org/unialfa/praticando/Wrappers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula-4/src/main/java/org/unialfa/algoritomos/AtividadeNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aula-4/src/main/java/org/unialfa/algoritomos/AtividadeNumero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula-4/src/main/java/org/unialfa/atividadenumero/Numero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aula-4/src/main/java/org/unialfa/atividadenumero/Numero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula-4/src/main/java/org/unialfa/atividadenumero/ProgramaNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aula-4/src/main/java/org/unialfa/atividadenumero/ProgramaNumero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula-4/src/main/java/org/unialfa/atividadepessoa/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aula-4/src/main/java/org/unialfa/atividadepessoa/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula-4/src/main/java/org/unialfa/atividadepessoa/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aula-4/src/main/java/org/unialfa/atividadepessoa/Programa.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2dKpmMdXk9ZCtiMCJyzKBMxxURq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "C:/WORKSPACE JAVA/Java-Gui/src/main/java/com/unialfa/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d742622-7e78-47f7-96ed-1e702d055387" name="Changes" comment="" />
+      <created>1709766783537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709766783537</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/unialfa/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
